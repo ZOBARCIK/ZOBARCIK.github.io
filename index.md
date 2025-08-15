@@ -21,15 +21,3 @@ You can find my resume here
 
 ## PROJECTS
 Couple of my are showcased below. For more, you can visit my github page.
-
-
-#### Header 4
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
